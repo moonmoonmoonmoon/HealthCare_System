@@ -57,7 +57,7 @@ We have successfully implemented the following features:
 ## Getting Started
 
 ### Prerequisites
-- Python 3.8+
+- Python 3.10
 - Django 5.1.7+
 - Anthropic API key
 - Virtual environment (recommended)

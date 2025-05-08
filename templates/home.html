@@ -1,0 +1,22 @@
+{% extends 'base.html' %}
+{% block content %}
+<div class="home-container">
+    <h1>Welcome to the Healthcare Management System</h1>
+    <p>Our system aims to provide a secure and efficient platform for medical record management and doctor-patient communication.</p>
+
+    {% if not user.is_authenticated %}
+    <p>Please choose from the following options:</p>
+    <div class="registration-options">
+        <div class="option">
+            <h3>I am a Patient</h3>
+            <a href="{% url 'signup' %}" class="btn">Register as Patient</a>
+        </div>
+        <div class="option">
+            <h3>I am a Doctor</h3>
+            <a href="{% url 'doctor_signup' %}" class="btn">Register as Doctor</a>
+        </div>
+    </div>
+    <p>Already have an account? <a href="{% url 'login' %}" class="btn">Login</a></p>
+    {% endif %}
+</div>
+{% endblock %}

@@ -131,10 +131,10 @@ Our system uses the Anthropic Claude AI model to analyze medical documents and e
 4. **Clinical Decision Support**: The structured data helps healthcare providers make informed decisions
 
 ## Team Members
-- Siyuan (Max) Meng (@siyuanmengmax)
-- Yanan (Amy) Zhang (@moonmoonmoonmoon)
 - Anushka Agarwal (@anushka17agarwal)
+- Siyuan (Max) Meng (@siyuanmengmax)
 - Talha Mohammed Zakir Chafekar (@talha1503)
+- Yanan (Amy) Zhang (@moonmoonmoonmoon)
 
 ## Project Resources
 - [Project Documentation](https://drive.google.com/drive/folders/1CKSTxzOG-uz_qVGkbOr2_3o1p5T_zjmL?usp=sharing)

@@ -138,7 +138,7 @@ Our system uses the Anthropic Claude AI model to analyze medical documents and e
 
 ## Project Resources
 - [Project Documentation](https://drive.google.com/drive/folders/1mK1nlRXGbnPdHZERem4Kxc_C32OS4Ddy)
-- [GitHub Repository]([https://github.com/siyuanmengmax/healthcare](https://github.com/moonmoonmoonmoon/HealthCare_System?tab=readme-ov-file))
+- [GitHub Repository]([https://github.com/siyuanmengmax/healthcare](https://github.com/moonmoonmoonmoon/HealthCare_System?tab=readme-ov-file)])
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

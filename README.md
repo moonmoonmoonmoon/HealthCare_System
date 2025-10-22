@@ -2,7 +2,7 @@
 
 ## Project Overview
 The Healthcare Management System is a comprehensive digital platform aimed at modernizing healthcare record-keeping by transitioning from paper-based methods to a secure digital platform. Our system leverages advanced AI and Large Language Models (LLMs) to intelligently process medical documents, extract meaningful insights, and provide clinical decision support.
-7
+
 ### Primary Goals
 - Improve the accuracy and accessibility of patient records
 - Enhance communication between doctors and patients
